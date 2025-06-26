@@ -18,3 +18,4 @@ A full-featured **Flutter application** that supports Android, iOS, and Web plat
 - 🔄 **Persistent login**, even after uninstall (via Firebase UID sync)
 
 ---
+
